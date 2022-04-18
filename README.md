@@ -1,6 +1,5 @@
-<h1 align="center">Всем привет<a href="https://daniilshat.ru/" target="_blank"></a> 
+<h1 align="center">Hi there, I'm<a href="https://github.com/SeeeeeeeeeeD" target="_blank"> Evgeny</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Меня зовут Евгений. </h3>
 <h3 align="center">Я начинающий специалист 🔭 в области ✨ анализа данных ✨ и ✨ науки о данных ✨.</h3>
 <h2 align="center">Добро пожаловать на мою страницу!</h2>
 
