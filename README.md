@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/SeeeeeeeeeeD" target="_blank">Evgeny</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/SeeeeeeeeeeD" target="_blank">Evgeny</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">✨Data Science✨ and ✨Data Analysis✨ entry-level specialist.</h3>
 <h2 align="center">Welcome to my personal page 🔭</h2>
