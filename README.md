@@ -26,10 +26,10 @@
 <hr>
   
 <h2 align="center">✨ My Certificates ✨</h2>
-<div> <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631557.png" width="282" height="200">
-      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631627.png" width="282" height="200">
-      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631589.png" width="200" height="282">
-      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631611.png" width="200" height="282">  
+<div> <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631557.png" width="268" height="190">
+      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631627.png" width="268" height="190">
+      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631589.png" width="190" height="268">
+      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631611.png" width="190" height="268">  
 </div>
 
 
