@@ -23,19 +23,16 @@
 | [Спрос на рейсы авиакомпании](https://github.com/SeeeeeeeeeeD/Yandex.Practicum/tree/main/Demand_for_flights) | Для российской авиакомпании, выполняющей внутренние пассажирские перевозки важно понять предпочтения пользователей, покупающих билеты на разные направления. Извлечены данные запросами на языке SQL и методами библиотеки PySpark. Изучена база данных и проанализирован спрос пассажиров на рейсы в города, где проходят крупнейшие культурные фестивали. | `SQL` `Matplotlib` `SciPy` `Проверка статистических гипотез` `Seaborn` `Pandas` `Python` `PySpark`  |
 | [Определение возраста покупателей по фото](https://github.com/SeeeeeeeeeeD/Yandex.Practicum/tree/main/Buyer's_age) | Построена модель, которая по фотографии определит приблизительный возраст человека. Проанализирован набор фотографий людей с указанием возраста при помощи компьютерного зрения с привлечением готовых нейронных сетей и библиотеки Keras. | `Computer vision` `Keras` `PIL` `Matplotlib` `Numpy` `TensorFlow` `Seaborn` `Pandas` `Python` `Machine learning`  |
 
+<hr>
+  
+<h2 align="center">✨ My Certificates ✨</h2>
+<div> <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631557.png" width="282" height="200">
+      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631627.png" width="282" height="200">
+      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631589.png" width="200" height="282">
+      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631611.png" width="200" height="282">  
+</div>
 
 
 <!--
 **SeeeeeeeeeeD/SeeeeeeeeeeD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
