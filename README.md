@@ -27,11 +27,17 @@
 <hr>
   
 <h2 align="center">✨ My Certificates ✨</h2>
-<div> <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631557.png" width="297" height="210">
-      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631627.png" width="297" height="210">
+<div> <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/practicum1.png" width="297]height="210">
+      <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/practicum2.png" width="297]height="210">
+      <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/practicum3.png" width="297]height="210">
+      <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/practicum4.png" width="297]height="210">
 </div>
-<div> <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631589.png" width="210" height="297">
-      <img src="https://github.com/SeeeeeeeeeeD/SeeeeeeeeeeD/blob/main/1651221631611.png" width="210" height="297">  
+
+<div> <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/1651221631557.png" width="297" height="210">
+      <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/1651221631627.png" width="297" height="210">
+</div>
+<div> <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/1651221631589.png" width="210" height="297">
+      <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/1651221631611.png" width="210" height="297">  
 </div>
 
 
