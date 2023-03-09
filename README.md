@@ -32,10 +32,6 @@
       <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/practicum3.png" width="297]height="210">
       <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/practicum4.png" width="297]height="210">
 </div>
-
-<div> <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/1651221631557.png" width="297" height="210">
-      <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/1651221631627.png" width="297" height="210">
-</div>
 <div> <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/1651221631589.png" width="180" height="254">
       <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/1651221707273.png" width="180" height="254">
       <img src="https://raw.githubusercontent.com/SeeeeeeeeeeD/SeeeeeeeeeeD/main/1651221631611.png" width="180" height="254"> 
